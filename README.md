@@ -1,39 +1,30 @@
 <div align="center">
+  <img src="https://yukiapp.xyz/icon.png" width="96" alt="Yuki">
 
-# ❄️ Yuki (雪)
+  <h1>Yuki</h1>
 
-### *A native client ecosystem for [Stoat](https://stoat.chat).*
+  <p>Your client for Stoat on iOS.</p>
 
-[![Status: Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-F59E0B?style=flat-square)](https://github.com/GalaxyAkiii)
-[![iOS 17+](https://img.shields.io/badge/iOS-17.0%2B-38B8FA?style=flat-square&logo=apple&logoColor=white)](https://apple.com/ios)
-[![Swift 5.9+](https://img.shields.io/badge/Swift-5.9%2B-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-38B8FA?style=flat-square)](LICENSE)
-
----
-
-### 🚧 Under Active Construction
-
-We're currently in the middle of building and organizing the Yuki ecosystem.  
-Stay tuned as we prepare initial releases, setup repositories, and roll out sideload builds!
-
----
-
+  <p>
+    <a href="https://yukiapp.xyz">Website</a> ·
+    <a href="https://github.com/Yuki-Client/Yuki-App">App</a> ·
+    <a href="https://github.com/Yuki-Client/discussions">Discussions</a>
+  </p>
 </div>
 
-## 🔍 What We're Building
+Hi, and welcome! Yuki is a native iPhone and iPad app for [Stoat](https://stoat.chat), built with SwiftUI. The goal is simple: chatting on Stoat from your phone should feel like any other app you love using on iOS.
 
-- 📱 [**`Yuki-client`**](https://github.com/GalaxyAkiii/yuki-app): A fast, fluid, and native iPhone/iPad chat app for Stoat built with pure SwiftUI, CallKit, and LiveKit voice lounges.
+### Repositories
 
-Full documentation, contributor guidelines, and test releases will be shared here soon.
+- **[Yuki-App](https://github.com/Yuki-Client/Yuki-App)** is the app itself.
+- **[discussions](https://github.com/Yuki-Client/discussions)** is the place for ideas, questions and feature requests. Come say hi.
 
----
+### Trying it out
 
-## ⚠️ Disclaimer
+Yuki isn't on the App Store yet, but you can sideload it. On your iPhone, tap **[Add to AltStore](https://yukiapp.xyz/altstore)** or **[Add to SideStore](https://yukiapp.xyz/sidestore)** and install Yuki from the source. You can also add `https://yukiapp.xyz/altstore.json` by hand, or grab the latest `.ipa` from the [releases page](https://github.com/Yuki-Client/Yuki-App/releases). New to sideloading? The [install guide](https://yukiapp.xyz/install) walks you through it.
 
-> Yuki is an independent, community-driven project and is **not affiliated with, endorsed by, or connected to Stoat**.
+### Getting involved
 
----
+Bug reports, ideas and pull requests are all welcome. If something feels off, or you wish Yuki did something it doesn't, open an issue or start a discussion and let's talk about it.
 
-<div align="center">
-  <sub> Licensed under the <a href="LICENSE">GNU AGPLv3 License</a></sub>
-</div>
+<sub>Yuki is an independent project and isn't affiliated with or endorsed by Stoat. It's free software under the <a href="https://github.com/Yuki-Client/Yuki-App/blob/main/LICENSE">AGPL-3.0</a>.</sub>
